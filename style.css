@@ -1229,6 +1229,10 @@ img.alignright,
 	background-color: #fff;
 }
 
+.nav-secondary .genesis-nav-menu {
+	font-size: 1.25rem;
+}
+
 /* # Content Area
 ---------------------------------------------------------------------------------------------------- */
 
