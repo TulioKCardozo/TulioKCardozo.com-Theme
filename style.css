@@ -1072,6 +1072,7 @@ img.alignright,
 #menu-header-navigation.genesis-nav-menu a {
 	color: #fff;
 	background-color: #333;
+	text-transform: uppercase;
 }
 
 #menu-header-navigation.genesis-nav-menu a:hover {
