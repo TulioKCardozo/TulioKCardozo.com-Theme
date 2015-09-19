@@ -1075,7 +1075,8 @@ img.alignright,
 	text-transform: uppercase;
 }
 
-#menu-header-navigation.genesis-nav-menu a:hover {
+#menu-header-navigation.genesis-nav-menu a:hover,
+#menu-header-navigation.genesis-nav-menu .current_page_item a {
 	color: #333;
 	background-color: #fff;
 }
