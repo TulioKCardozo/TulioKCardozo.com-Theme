@@ -976,7 +976,7 @@ img.alignright,
 ---------------------------------------------------------------------------------------------------- */
 
 .site-header {
-	background-color: #fff;
+	background-color: #333;
 	min-height: 70px;
 }
 
@@ -1071,10 +1071,12 @@ img.alignright,
 
 #menu-header-navigation.genesis-nav-menu a {
 	color: #fff;
+	background-color: #000;
 }
 
 #menu-header-navigation.genesis-nav-menu a:hover {
 	color: #000;
+	background-color: #fff;
 }
 
 .genesis-nav-menu a:hover,
