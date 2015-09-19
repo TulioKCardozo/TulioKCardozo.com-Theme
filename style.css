@@ -1069,6 +1069,10 @@ img.alignright,
 	padding: 30px 24px;
 }
 
+#menu-header-navigation.genesis-nav-menu a {
+	color: #fff;
+}
+
 .genesis-nav-menu a:hover,
 .genesis-nav-menu a:focus,
 .genesis-nav-menu .current-menu-item > a,
