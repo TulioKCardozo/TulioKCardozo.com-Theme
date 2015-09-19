@@ -1071,11 +1071,11 @@ img.alignright,
 
 #menu-header-navigation.genesis-nav-menu a {
 	color: #fff;
-	background-color: #000;
+	background-color: #333;
 }
 
 #menu-header-navigation.genesis-nav-menu a:hover {
-	color: #000;
+	color: #333;
 	background-color: #fff;
 }
 
