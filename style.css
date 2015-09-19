@@ -1176,6 +1176,11 @@ img.alignright,
 	margin-top: -56px;
 }
 
+.site-header .genesis-nav-menu {
+	font-size: 1.35rem;
+	font-weight: 500;
+}
+
 .site-header .genesis-nav-menu li li {
 	margin-left: 0;
 }
