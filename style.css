@@ -157,6 +157,10 @@ body {
 	margin: 0;
 }
 
+article {
+	border: 1px solid #dfdfdf;
+}
+
 a,
 button,
 input:focus,
