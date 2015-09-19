@@ -1073,6 +1073,10 @@ img.alignright,
 	color: #fff;
 }
 
+#menu-header-navigation.genesis-nav-menu a:hover {
+	color: #000;
+}
+
 .genesis-nav-menu a:hover,
 .genesis-nav-menu a:focus,
 .genesis-nav-menu .current-menu-item > a,
