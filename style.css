@@ -1069,18 +1069,6 @@ img.alignright,
 	padding: 30px 24px;
 }
 
-#menu-header-navigation.genesis-nav-menu a {
-	color: #fff;
-	background-color: #333;
-	text-transform: uppercase;
-}
-
-#menu-header-navigation.genesis-nav-menu a:hover,
-#menu-header-navigation.genesis-nav-menu .current_page_item a {
-	color: #333;
-	background-color: #fff;
-}
-
 .genesis-nav-menu a:hover,
 .genesis-nav-menu a:focus,
 .genesis-nav-menu .current-menu-item > a,
@@ -1190,6 +1178,18 @@ img.alignright,
 
 .site-header .genesis-nav-menu li li {
 	margin-left: 0;
+}
+
+#menu-header-navigation.genesis-nav-menu a {
+	color: #fff;
+	background-color: #333;
+	text-transform: uppercase;
+}
+
+#menu-header-navigation.genesis-nav-menu a:hover,
+#menu-header-navigation.genesis-nav-menu .current_page_item a {
+	color: #333;
+	background-color: #fff;
 }
 
 /* ## Primary Navigation
