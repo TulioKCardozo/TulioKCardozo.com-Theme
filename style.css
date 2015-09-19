@@ -977,11 +977,11 @@ img.alignright,
 
 .site-header {
 	background-color: #fff;
-	min-height: 160px;
+	min-height: 80px;
 }
 
 .site-header .wrap {
-	padding: 40px 0;
+	padding: 0;
 }
 
 /* ## Title Area
