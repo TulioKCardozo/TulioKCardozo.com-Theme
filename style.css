@@ -636,6 +636,11 @@ aside.sidebar-primary .gform_widget input {
 	padding: 1.8rem;
 }
 
+aside.sidebar-primary .gform_widget .gform_footer {
+	margin:0;
+	padding:0;
+}
+
 aside.sidebar-primary .gform_widget .gform_footer input.button {
 	border: 2px solid #fff;
 	border-radius: 4px;
