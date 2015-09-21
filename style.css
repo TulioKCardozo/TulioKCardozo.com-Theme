@@ -612,6 +612,10 @@ aside.sidebar-primary .gform_widget {
 	color: #fff;
 }
 
+aside.sidebar-primary .gform_widget .gform_wrapper {
+	max-width: 100%
+}
+
 aside.sidebar-primary .gform_widget li {
 	border-bottom: none;
 }
