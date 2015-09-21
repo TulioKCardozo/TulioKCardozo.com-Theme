@@ -617,6 +617,12 @@ aside.sidebar-primary .gform_widget .widget-title {
 	text-align: center;
 }
 
+aside.sidebar-primary .gform_widget .gfield_label {
+	visibility: hidden;
+    height: 1px;
+    margin: 0;
+}
+
 aside.sidebar-primary .gform_widget .gform_footer input.button {
 	border: 2px solid #fff;
 	border-radius: 4px;
