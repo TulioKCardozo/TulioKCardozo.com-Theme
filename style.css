@@ -607,6 +607,10 @@ th {
 	float: left;
 }
 
+aside.sidebar-primary .gform_widget {
+	background-color: #333;
+}
+
 /* ### Secondary Sidebar */
 
 .sidebar-secondary {
