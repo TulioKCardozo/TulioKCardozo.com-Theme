@@ -614,6 +614,7 @@ aside.sidebar-primary .gform_widget {
 
 aside.sidebar-primary .gform_widget .widget-title {
 	color: #fff;
+	text-align: center;
 }
 
 aside.sidebar-primary .gform_widget .gform_footer input.button {
