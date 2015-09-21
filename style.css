@@ -1243,6 +1243,7 @@ img.alignright,
 	color: #fff;
 	background-color: #333;
 	text-transform: uppercase;
+	border-bottom:none;
 }
 
 #menu-header-navigation.genesis-nav-menu a:hover,
