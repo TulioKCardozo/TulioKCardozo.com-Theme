@@ -628,6 +628,11 @@ aside.sidebar-primary .gform_widget .gfield_label {
     margin: 0;
 }
 
+
+aside.sidebar-primary .gform_widget .top_label input.large {
+	width:100%
+}
+
 aside.sidebar-primary .gform_widget input {
 	padding: 1.8rem;
 }
