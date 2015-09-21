@@ -612,6 +612,10 @@ aside.sidebar-primary .gform_widget {
 	color: #fff;
 }
 
+aside.sidebar-primary .gform_widget li {
+	border-bottom: none;
+}
+
 aside.sidebar-primary .gform_widget .widget-title {
 	color: #fff;
 	text-align: center;
