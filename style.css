@@ -616,6 +616,12 @@ aside.sidebar-primary .gform_widget .widget-title {
 	color: #fff;
 }
 
+aside.sidebar-primary .gform_widget .gform_footer input.button {
+	border: 2px solid #fff;
+	border-radius: 4px;
+	width: 100%;
+}
+
 /* ### Secondary Sidebar */
 
 .sidebar-secondary {
