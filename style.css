@@ -628,6 +628,7 @@ aside.sidebar-primary .gform_widget .widget-title {
 	color: #fff;
 	text-align: center;
 	font-size: 2.2rem;
+	margin-bottom: 0;
 }
 
 aside.sidebar-primary .gform_widget .gfield_label {
