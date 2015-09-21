@@ -802,6 +802,10 @@ aside.sidebar-primary .gform_widget .gform_footer input.button {
 	width: 1px;
 }
 
+aside.sidebar-primary .widget_search {
+	padding: 0;
+}
+
 /* ## Titles
 --------------------------------------------- */
 
