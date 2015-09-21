@@ -616,6 +616,10 @@ aside.sidebar-primary .gform_widget .gform_wrapper {
 	max-width: 100%
 }
 
+aside.sidebar-primary .gform_widget .gform_wrapper ul li.gfield {
+	line-height:0;
+}
+
 aside.sidebar-primary .gform_widget li {
 	border-bottom: none;
 }
