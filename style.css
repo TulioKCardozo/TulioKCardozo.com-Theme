@@ -596,7 +596,7 @@ th {
 
 .sidebar-primary {
 	float: right;
-	width: 360px;
+	width: 25.5%;
 }
 
 .sidebar-content .sidebar-primary,
@@ -1596,7 +1596,6 @@ li.comment {
 		width: 400px;
 	}
 
-	.sidebar-primary,
 	.title-area {
 		width: 300px;
 	}
@@ -1604,7 +1603,6 @@ li.comment {
 	.footer-widgets-1,
 	.footer-widgets-2,
 	.footer-widgets-3,
-	.sidebar-primary,
 	.title-area {
 		width: 300px;
 	}
