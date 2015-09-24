@@ -1152,13 +1152,18 @@ aside.sidebar-primary .gform_wrapper div.validation_error {
 	padding: 30px 24px;
 }
 
+nav .genesis-nav-menu .current-menu-item > a{
+	color:#fff;
+	border-bottom:1px solid #fac012;
+}
+
 .genesis-nav-menu a:hover,
 .genesis-nav-menu a:focus,
 .genesis-nav-menu .current-menu-item > a,
 .genesis-nav-menu .sub-menu .current-menu-item > a:hover,
 .genesis-nav-menu .sub-menu .current-menu-item > a:focus  {
-	color: #c3251d;
-	text-decoration: underline;
+	color: #fac012;
+	border-bottom:1px solid #fff;
 }
 
 .genesis-nav-menu .sub-menu {
