@@ -174,14 +174,14 @@ textarea:focus,
 }
 
 a {
-	color: #c3251d;
+	color: #29436D;
 	text-decoration: none;
 	border-bottom:1px solid #e6e7e8;
 }
 
 a:hover,
 a:focus {
-	color: #333;
+	color: #8BB7FF;
 	border-bottom:none;
 }
 
