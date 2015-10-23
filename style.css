@@ -1035,6 +1035,9 @@ aside.sidebar-primary .gform_wrapper div.validation_error {
   border-bottom: 2px solid #fac012;
 }
 
+.form-lift .gform_wrapper {
+	margin-top: -18px;
+}
 
 /* # Skip Links
 ---------------------------------------------------------------------------------------------------- */
